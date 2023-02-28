@@ -38,7 +38,7 @@ name: Introductions
 # Introductions
 
 <div style="float: left; width: 50%;">
-.center[![:scale 10%](images/ron-dp.jpg)]
+.center[![:scale 50%](images/ron-dp.jpg)]
 <ul>
 <li>Ron Teo</li>
 <li>Solution Architecture Specialist</li>
@@ -46,7 +46,7 @@ name: Introductions
 </ul>
 </div>
 <div style="float: right; width: 50%;">
-.center[![:scale 10%](images/zh-dp.jpg)]
+.center[![:scale 50%](images/zh-dp.png)]
 <ul>
 <li>Zhi Hao Pang</li>
 <li>Partner Solution Engineer</li>

@@ -19,7 +19,7 @@ name: hashiCorp-vault-overview
   * HashiCorp Vault is an API-driven, cloud agnostic secrets management system.
   * It allows you to safely store and manage sensitive data in hybrid cloud environments.
   * You can also use Vault to generate dynamic short-lived credentials, or encrypt application data on the fly.
-  * Vault Enterprise is <b>FIPS 140-2 standards compliant</b> - https://www.hashicorp.com/vault-compliance
+  * Vault Enterprise is <b>FIPS 140-2 standards compliant</b>
 
 ???
 This is meant as a high level overview.  For detailed descriptions or instructions please see the docs, API guide, or learning site:

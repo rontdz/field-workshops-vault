@@ -27,7 +27,7 @@ name: Link-to-Slide-Deck
 <br><br>
 ### Follow along on your own computer at this link:
 
-https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
+https://rontdz.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
 
 ???
 
@@ -37,9 +37,23 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-![:scale 100%](images/ron-dp.jpg)
-* Name - Ron Teo
-* Role - Solution Architecture Specialist
+<div style="float: left; width: 50%;">
+.center[![:scale 10%](images/ron-dp.jpg)]
+<ul>
+<li>Ron Teo</li>
+<li>Solution Architecture Specialist</li>
+<li>ron.teo@hashicorp.com</li>
+</ul>
+</div>
+<div style="float: right; width: 50%;">
+.center[![:scale 10%](images/zh-dp.jpg)]
+<ul>
+<li>Zhi Hao Pang</li>
+<li>Partner Solution Engineer</li>
+<li>zhihao.pang@hashicorp.com</li>
+</ul>
+</div>
+
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.

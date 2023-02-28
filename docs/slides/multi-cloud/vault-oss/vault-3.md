@@ -65,6 +65,7 @@ name: initializing-vault
 * This is done with the `vault operator init` command.
 * The number of key shares and the key threshold can be specified with the `-key-shares` and `key-threshold` options.
 * The command returns the unseal keys and the initial root token for the cluster.
+* <b>HSM Integration</b>: Enterprise Vault can protects its root key by transiting it through the HSM for encryption rather than splitting into key shares.
 
 ???
 * Describe Vault's `init` command

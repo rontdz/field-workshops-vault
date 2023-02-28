@@ -46,7 +46,7 @@ name: Introductions
 </ul>
 </div>
 <div style="float: right; width: 50%;">
-.center[![:scale 50%](images/zh-dp.png)]
+.center[![:scale 45%](images/zh-dp.png)]
 <ul>
 <li>Zhi Hao Pang</li>
 <li>Partner Solution Engineer</li>
@@ -70,23 +70,24 @@ name: Table-of-Contents
 1. Vault Secrets Engines
 1. Vault Authentication Methods
 1. Vault Policies
-1. Dynamic Database Secrets
+1. Hands-on Labs - Vault Basics 
+1. Dynamic Database Secrets 
+1. Hands-on Labs - Vault Dynamic Database Credentials
 1. Encryption as a Service
+1. Hands-on Labs - Vault Encryption as a Service
 
 ???
 The table of contents for the workshop
 
 ---
 name: instruqt-tracks
-# Lab Environment Used
+# Lab Environment & Conduct
 * This workshop uses [Instruqt](https://instruqt.com) for hands-on labs.
 * Instruqt labs are run in "tracks" that are divided into "challenges".
 * This workshop uses the following tracks:
     1. **Vault Basics**
     1. **Vault Dynamic Database Credentials**
     1. **Vault Encryption as a Service**
-* We'll cover chapters 1-6 and then do the first lab.
-* We'll then cover chapter 7 with the second lab.
-* We'll finish with chapter 8 and the third lab.
-
-Your instructor will provide the URLs for the tracks.
+* We will take a pause at the end of every chapter for a short Q&A.
+* The lab environment will still be available after this workshop and you can always re-attempt them.
+* We will use an online poll to keep track of our progress.

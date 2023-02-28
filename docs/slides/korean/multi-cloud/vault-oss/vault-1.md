@@ -42,7 +42,7 @@ layout: false
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
+- Copyright © 2023 HashiCorp
 - ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
 ]
 
@@ -97,7 +97,7 @@ name: identity-based-security-1
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
+- Copyright © 2023 HashiCorp
 - ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
 ]
 
@@ -165,7 +165,7 @@ name: vault-reference-architecture-3
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
+- Copyright © 2023 HashiCorp
 - ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
 ]
 

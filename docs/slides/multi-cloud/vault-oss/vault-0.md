@@ -17,7 +17,7 @@ It is cloud agnostic.
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
+- Copyright © 2023 HashiCorp
 - ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
 ]
 
@@ -37,10 +37,9 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-* Your Name
-* Job Title
-* Secrets Management Experience
-* Favorite Text Editor
+![:scale 100%](images/ron-dp.jpg)
+* Name - Ron Teo
+* Role - Solution Architecture Specialist
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.

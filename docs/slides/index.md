@@ -26,7 +26,7 @@ You make a slide a title slide by including `class: title`.
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
+- Copyright © 2023 HashiCorp
 - ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
 ]
 ---

@@ -22,7 +22,7 @@ background-image: url(images/HashiCorp-Title-bkg.jpeg)
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
+- Copyright © 2023 HashiCorp
 - ![:scale 100%](images/HashiCorp_Icon_Black.svg)
 ]
 

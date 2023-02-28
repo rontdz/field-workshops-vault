@@ -71,10 +71,8 @@ name: Table-of-Contents
 1. Vault Authentication Methods
 1. Vault Policies
 1. Hands-on Labs - Vault Basics 
-1. Dynamic Database Secrets 
-1. Hands-on Labs - Vault Dynamic Database Credentials
-1. Encryption as a Service
-1. Hands-on Labs - Vault Encryption as a Service
+1. Dynamic Database Secrets (w/ Labs)
+1. Encryption as a Service (w/ Labs)
 
 ???
 The table of contents for the workshop
@@ -84,10 +82,6 @@ name: instruqt-tracks
 # Lab Environment & Conduct
 * This workshop uses [Instruqt](https://instruqt.com) for hands-on labs.
 * Instruqt labs are run in "tracks" that are divided into "challenges".
-* This workshop uses the following tracks:
-    1. **Vault Basics**
-    1. **Vault Dynamic Database Credentials**
-    1. **Vault Encryption as a Service**
-* We will take a pause at the end of every chapter for a short Q&A.
 * The lab environment will still be available after this workshop and you can always re-attempt them.
+* We will take a pause at the end of every chapter for a short Q&A.
 * We will use an online poll to keep track of our progress.
